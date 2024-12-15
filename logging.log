@@ -1,0 +1,70 @@
+2024-12-15 14:47 - INFO - Command status
+2024-12-15 14:47 - INFO - Sent status info
+2024-12-15 14:47 - INFO - SMS deleted
+2024-12-15 14:47 - INFO - Command status
+2024-12-15 14:47 - INFO - Sent heater on confirmation
+2024-12-15 14:47 - INFO - SMS deleted
+2024-12-15 15:07 - INFO - Command status
+2024-12-15 15:07 - INFO - Sent status info
+2024-12-15 15:07 - INFO - SMS deleted
+2024-12-15 15:07 - INFO - Command status
+2024-12-15 15:07 - INFO - Sent heater on confirmation
+2024-12-15 15:07 - INFO - SMS deleted
+2024-12-15 15:08 - INFO - Command status
+2024-12-15 15:08 - INFO - Sent status info
+2024-12-15 15:08 - INFO - SMS deleted
+2024-12-15 15:11 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 15:15 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 15:16 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 15:16 - ERROR - Exception reading input: AttributeError("'NoneType' object has no attribute 'inWaiting'")
+2024-12-15 15:18 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 15:20 - INFO - Network is registered
+2024-12-15 15:20 - INFO - Command status
+2024-12-15 15:20 - INFO - Sent status info
+2024-12-15 15:20 - INFO - SMS deleted
+2024-12-15 15:21 - ERROR - Exception reading input: OSError(5, 'Input/output error')2024-12-15 15:23 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 15:27 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 15:34 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 15:34 - INFO - Reboot OS
+2024-12-15 15:39 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 15:39 - INFO - Reboot OS
+2024-12-15 15:47 - INFO - Network is registered
+2024-12-15 15:48 - INFO - Command status
+2024-12-15 15:48 - INFO - Sent status info
+2024-12-15 15:48 - INFO - SMS deleted
+2024-12-15 15:48 - INFO - Heater on
+2024-12-15 15:48 - INFO - Sent heater on confirmation
+2024-12-15 15:48 - INFO - SMS deleted
+2024-12-15 15:48 - INFO - Command status
+2024-12-15 15:48 - INFO - Sent status info
+2024-12-15 15:48 - INFO - SMS deleted
+2024-12-15 15:49 - INFO - Heater off
+2024-12-15 15:49 - INFO - Sent heater off confirmation
+2024-12-15 15:49 - INFO - SMS deleted
+2024-12-15 15:49 - INFO - Command status
+2024-12-15 15:49 - INFO - Sent status info
+2024-12-15 15:49 - INFO - SMS deleted
+2024-12-15 15:59 - INFO - Network is registered
+2024-12-15 16:00 - INFO - Command status
+2024-12-15 16:00 - INFO - Sent status info
+2024-12-15 16:00 - ERROR - Exception with serial communication: NameError("name 'delete_message_at_position' is not defined")
+2024-12-15 16:00 - INFO - Reset USB driver
+2024-12-15 16:00 - INFO - Network is registered
+2024-12-15 16:00 - INFO - Command status
+2024-12-15 16:00 - INFO - Sent status info
+2024-12-15 16:00 - ERROR - Exception with serial communication: NameError("name 'delete_message_at_position' is not defined")
+2024-12-15 16:00 - INFO - Reset USB driver
+2024-12-15 16:01 - INFO - Network is registered
+2024-12-15 16:01 - INFO - Command status
+2024-12-15 16:01 - INFO - Sent status info
+2024-12-15 16:01 - ERROR - Exception with serial communication: NameError("name 'delete_message_at_position' is not defined")
+2024-12-15 16:01 - INFO - Reset USB driver
+2024-12-15 16:03 - INFO - Network is registered
+2024-12-15 16:03 - ERROR - Exception reading input: OSError(5, 'Input/output error')
+2024-12-15 16:03 - ERROR - Exception reading input: TypeError('argument must be an int, or have a fileno() method.')2024-12-15 16:09 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 16:09 - INFO - Reset USB driver
+2024-12-15 16:11 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 16:11 - INFO - Reset USB driver
+2024-12-15 16:12 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
+2024-12-15 16:12 - INFO - Reset USB driver
+2024-12-15 16:19 - ERROR - Exception with serial communication: SerialException(2, "could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'")
